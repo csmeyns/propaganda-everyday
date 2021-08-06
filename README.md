@@ -28,7 +28,7 @@ image: https://i.imgur.com/2QQalhG.jpg
 
 **Open communication space (Discord)**: We will use a Discord server for open course-wide communication. (Link to follow.) Feel free to use it to ask questions, share ideas or interesting material. On Tuesdays 12:00–13:00 CET the course coordinater will be around and available for real-time chat or (video)calls. Participation on the Discord server is not mandatory.
 
-**Examination**: Examination will be in the form of course deliverables (see below). To successfully complete the course, all deliverables must have been submitted by their respective deadlines and receive at least a pass mark.
+**Examination**: Examination will be in the form of course deliverables (see below). To successfully complete the course, all deliverables must have been submitted by their respective due dates and receive at least a pass mark.
 
 <!-- **Getting started**: 
 1. Read through the course syllabus (*this page*), gather the readings. Identify key action points and dates.
@@ -80,8 +80,8 @@ What role do algorithms play in spreading (or blocking!) quotidian propaganda to
 :::success
 **Action points**
 - Process audio/video talks and readings
-- <mark>Sun 17 Oct: Submit essay (deadline)</mark>
-- <mark>Tue 19 Oct: Give peer feedback on essays (deadline)</mark>
+- <mark>Sun 17 Oct: Submit essay (due date)</mark>
+- <mark>Tue 19 Oct: Give peer feedback on essays (due date)</mark>
 - Tue 19 Oct, 10.15-12.00: Seminar meeting
 :::
 
@@ -105,8 +105,8 @@ Are marketing and advertising simply propaganda by another name? Is propaganda n
 :::success
 **Action points**
 - Process audio/video talks and readings
-- <mark>Sun 24 Oct: Submit essay (deadline)</mark>
-- <mark>Tue 26 Oct: Give peer feedback on essays (deadline)</mark>
+- <mark>Sun 24 Oct: Submit essay (due date)</mark>
+- <mark>Tue 26 Oct: Give peer feedback on essays (due date)</mark>
 - Tue 26 Oct, 10.15-12.00: Seminar meeting
 :::
 
@@ -126,8 +126,8 @@ Surely how you dress is just a matter of personal preference? Individual *style*
 :::success
 **Action points**
 - Process audio/video talks and readings
-- <mark>Sun 31 Oct: Submit essay (deadline)</mark>
-- <mark>Tue 02 Nov: Give peer feedback on essays (deadline)</mark>
+- <mark>Sun 31 Oct: Submit essay (due date)</mark>
+- <mark>Tue 02 Nov: Give peer feedback on essays (due date)</mark>
 - Tue 02 Nov, 10.15-12.00: Seminar meeting
 :::
 
@@ -144,8 +144,8 @@ Friends wouldn't let friends get caught up in propaganda. Or...? In this module 
 :::success
 **Action points**
 - Process audio/video talks and readings
-- <mark>Sun 07 Nov: Submit essay (deadline)</mark>
-- <mark>Tue 09 Nov: Give peer feedback on essays (deadline)</mark>
+- <mark>Sun 07 Nov: Submit essay (due date)</mark>
+- <mark>Tue 09 Nov: Give peer feedback on essays (due date)</mark>
 - Tue 09 Nov, 10.15-12.00: Seminar meeting
 :::
 
@@ -163,8 +163,8 @@ The buildings people live, work and play in can easily fade into the background 
 :::success
 **Action points**
 - Process audio/video talks and readings
-- <mark>Sun 14 Nov: Submit essay (deadline)</mark>
-- <mark>Tue 16 Nov: Give peer feedback on essays (deadline)</mark>
+- <mark>Sun 14 Nov: Submit essay (due date)</mark>
+- <mark>Tue 16 Nov: Give peer feedback on essays (due date)</mark>
 - Tue 16 Nov, 10.15-12.00: Seminar meeting
 :::
 
@@ -183,8 +183,8 @@ Final project instructions to follow.
 
 :::success
 **Action points**
-- <mark>Tue 23 Nov: Submit project proposal (deadline)</mark>
-- <mark>Fri 26 Nov: Give peer feedback on project proposals (deadline)</mark>
+- <mark>Tue 23 Nov: Submit project proposal (due date)</mark>
+- <mark>Fri 26 Nov: Give peer feedback on project proposals (due date)</mark>
 - Individual supervisions on project proposals to be scheduled (in week 47)
 - <mark>13 Dec: Submit Final project</mark>
 :::
@@ -194,4 +194,4 @@ Final project instructions to follow.
 Your well-being and success in this course are important to us. We recognise that there are multiple ways to learn, and I encourage you to discuss your learning styles and requirements with me (chris.meyns@antro.uu.se) at the start of the course. If you encounter any circumstances (physical, psychological, or otherwise) that could impact on your full participation in this course, do let me know.
 
 
-###### tags: `propaganda` `course` `uppsala university` `vulnerability` `philosophy`
+###### tags: `propaganda` `graduate course` `uppsala university` `vulnerability` `philosophy`
