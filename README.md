@@ -26,33 +26,35 @@ image: https://i.imgur.com/2QQalhG.jpg
 
 **Format**: This course will be held in an all-remote format.
 
-**Seminar meetings**: All meetings will be held online (link to follow). Seminar meetings are normally every Tuesday 10:15–12:00 CET, unless otherwise stated. Please check the schedule for details. Seminars are intended as a space for us to learn collaboratively and from each other in real-time communication. Participation in seminars is not mandatory.
+**Seminar meetings**: All seminar meetings will be held [online on Zoom](https://uu-se.zoom.us/j/61857057334) (access code to be sent via email) on Tuesdays 10:15–12:00 CET. Seminars can be helpful for us to learn collaboratively and from each other in real-time communication. Each seminar meeting will have an [agenda of what we'd like to talk about](https://hackmd.io/@chrmns/BJCl6rayY). Participation in seminars is optional.
 
-**Open communication space**: We will use a Discord server for open course-wide communication. (Link to follow.) Feel free to use it to ask questions, share ideas or interesting material. On Tuesdays 12:00–13:00 CET the course coordinater will be around and available for real-time chat or (video)calls. Participation on the Discord server is not mandatory.
+**Open communication space**: We will use [this Discord server](https://discord.gg/9KAWB8wV) for open course-wide communication. Feel free to use it to ask any questions, share ideas or just to hang out. Participation on the Discord server is completely optional.
 
-**Examination**: Examination will be in the form of course deliverables (see below). To successfully complete the course, all deliverables must have been submitted by their respective due dates and receive at least a pass mark.
+**Examination**: Examination will be in the form of course deliverables (see below). To successfully complete the course, all deliverables for modules 2--7 must have been submitted by their respective due dates and receive at least a pass mark. 
 
-<!-- **Getting started**: 
-1. Read through the course syllabus (*this page* :smiley:). Gather the readings. Identify key dates and action points.
-2. We'll use hackmd.io for course submissions and feedback. Get started by [creating a HackMD account](https://hackmd.io/join). You're more than welcome to use a nickname or pseudonym (just let me know which one, so that I can assign course credit!).
-3. You're all ready to dive into module 1! -->
+**Getting started**: 
+1. Read through the course syllabus (this page :upside_down_face:). Gather the readings and course materials. Note for yourself what is happening when, including due dates for deliverables.
+2. We'll use hackmd.io (= this platform) for course submissions and collaboration. Get started by [creating a HackMD account](https://hackmd.io/join), maybe glance through a [tutorial](https://hackmd.io/c/tutorials/). Feel free to use a nickname or pseudonym for your account (for course credit purposes, do at some point let me know which one).
+3. That's it! You're all ready to dive into module 1.
 
 # Deliverables
 
 <i class="fa fa-pencil fa-fw"></i> **Short essays**
-Weekly short reflection essays in response to the module's topic or readings. (Applies to modules 2--6 only.)
+Weekly short reflection essays in response to the module's topic or readings. (Modules 2--6 only.) 
+<!-- [Read the instructions.](https://hackmd.io/@chrmns/S1i8z_jnd) -->
 
 <i class="fa fa-paper-plane"></i> **Peer feedback**
-Provide peer feedback on the short reflection essay and the final project of two colleague course participants. (Applies to modules 2--7.)
+Provide peer feedback on the work submitted by colleague participants in the course. (Modules 2--7.) 
+<!-- [Read the instructions.](https://hackmd.io/@chrmns/S1i8z_jnd) -->
 
-<i class="fa fa-pencil fa-fw"></i> **Final project**
-A larger writing project. Participants will be able to choose from three distinct assignments. Instructions to follow.
+<i class="fa fa-wrench"></i> **Final project**
+A larger writing project. You'll be able to choose from three distinct assignments. (Module 7 only) Instructions to follow.
 
-# Lectures
-To follow.
+<!-- # Talks
+To follow. -->
 
-# Readings
-All assigned readings will be made available in advance: either with a direct link (for online material) or as PDFs on [our shared drive](https://cryptpad.fr/drive/#/2/drive/view/LF0XSOtWUbt6l07-g1ntoOU353FvVjJqKwGkr3XaBqM/) (on Cryptpad). 
+# Readings (provisional)
+All assigned materials will be made available, either with a direct link (for online material) or as PDFs on [our shared drive](https://cryptpad.fr/drive/#/2/drive/view/LF0XSOtWUbt6l07-g1ntoOU353FvVjJqKwGkr3XaBqM/) (on Cryptpad). You will not need to purchase anything for this course. 
 
 The schedule below shows you what to read for each module. 
 
@@ -66,9 +68,11 @@ First the basics. We'll start with demarcation and definition questions. When is
 
 :::success
 **Action points:**
-- Process the audio/video talks and readings
-- <mark>Mon 11 Oct: Submit a propaganda item</mark>
-- Tue 12 Oct, 10.15-12.00: Seminar meeting
+- Process the readings, take notes
+- Add any points you'd like to discuss to the [agenda for the seminar](https://hackmd.io/@chrmns/BJCl6rayY)
+- Tue 12 Oct, 10.15-12.00: [Seminar meeting](https://uu-se.zoom.us/j/61857057334) (on Zoom)
+- <mark>Tue 12 Oct: Submit an item to the propaganda gallery</mark>
+<!-- - <mark>Tue 12 Oct: Submit an [item to the propaganda gallery](https://hackmd.io/@chrmns/Sy5zhB2JY)</mark> -->
 :::
 
 :::info 
@@ -85,10 +89,11 @@ What role do algorithms play in spreading (or blocking!) quotidian propaganda to
 
 :::success
 **Action points**
-- Process audio/video talks and readings
+- Process the readings, take notes
 - <mark>Sun 17 Oct: Submit essay (due date)</mark>
 - <mark>Tue 19 Oct: Give peer feedback on essays (due date)</mark>
-- Tue 19 Oct, 10.15-12.00: Seminar meeting
+- Add any points you'd like to discuss to the [agenda for the seminar](https://hackmd.io/@chrmns/BJCl6rayY)
+- Tue 19 Oct, 10.15-12.00: [Seminar meeting](https://uu-se.zoom.us/j/61857057334) (on Zoom)
 :::
 
 :::info
@@ -103,18 +108,19 @@ What role do algorithms play in spreading (or blocking!) quotidian propaganda to
 - Woolley, Samuel, danah boyd, Meredith Broussard et al. 2016. ‘How to Think About Bots’. _Data & Society_. 22 March 2016. https://points.datasociety.net/how-to-think-about-bots-1ccb6c396326.
 :::
 
-## 🔥 BONUS: Workshop network analysis
-Details to follow!
+<!-- ## 🔥 BONUS: Workshop network analysis
+Details to follow! -->
 
 ## 📍 03: Propaganda vs. Marketing [20--26 Oct]
 Are marketing and advertising simply propaganda by another name? Is propaganda nothing other than the proper marketing of a set of ideas? Do any of these distinctions show up at all in the jumble of people's busy daily lives? We'll take stock.
 
 :::success
 **Action points**
-- Process audio/video talks and readings
+- Process the readings, take notes
 - <mark>Sun 24 Oct: Submit essay (due date)</mark>
 - <mark>Tue 26 Oct: Give peer feedback on essays (due date)</mark>
-- Tue 26 Oct, 10.15-12.00: Seminar meeting
+- Add any points you'd like to discuss to the [agenda for the seminar](https://hackmd.io/@chrmns/BJCl6rayY)
+- Tue 26 Oct, 10.15-12.00: [Seminar meeting](https://uu-se.zoom.us/j/61857057334) (on Zoom)
 :::
 
 :::info
@@ -132,10 +138,11 @@ Surely how you dress is just a matter of personal preference? Individual *style*
 
 :::success
 **Action points**
-- Process audio/video talks and readings
+- Process the readings, take notes
 - <mark>Sun 31 Oct: Submit essay (due date)</mark>
 - <mark>Tue 02 Nov: Give peer feedback on essays (due date)</mark>
-- Tue 02 Nov, 10.15-12.00: Seminar meeting
+- Add any points you'd like to discuss to the [agenda for the seminar](https://hackmd.io/@chrmns/BJCl6rayY)
+- Tue 02 Nov, 10.15-12.00: [Seminar meeting](https://uu-se.zoom.us/j/61857057334) (on Zoom)
 :::
 
 :::info
@@ -150,10 +157,11 @@ Friends wouldn't let friends get caught up in propaganda. Or...? In this module 
 
 :::success
 **Action points**
-- Process audio/video talks and readings
+- Process the readings, take notes
 - <mark>Sun 07 Nov: Submit essay (due date)</mark>
 - <mark>Tue 09 Nov: Give peer feedback on essays (due date)</mark>
-- Tue 09 Nov, 10.15-12.00: Seminar meeting
+- Add any points you'd like to discuss to the [agenda for the seminar](https://hackmd.io/@chrmns/BJCl6rayY)
+- Tue 09 Nov, 10.15-12.00: [Seminar meeting](https://uu-se.zoom.us/j/61857057334) (on Zoom)
 :::
 
 :::info
@@ -162,9 +170,6 @@ Friends wouldn't let friends get caught up in propaganda. Or...? In this module 
 - Cooley, Delonia, and Rochelle Parks-Yancy. 2019. ‘The Effect of Social Media on Perceived Information Credibility and Decision Making’. _Journal of Internet Commerce_ 18 (3): 249–69. [https://doi.org/10.1080/15332861.2019.1595362](https://doi.org/10.1080/15332861.2019.1595362). ([pdf](https://cryptpad.fr/file/#/2/file/n4+8SdzPIXyqG4RdhDSt3E4x/))
 - Cotter, Kelley. 2019. ‘Playing the Visibility Game: How Digital Influencers and Algorithms Negotiate Influence on Instagram’. _New Media & Society_ 21 (4): 895–913. [https://doi.org/10.1177/1461444818815684](https://doi.org/10.1177/1461444818815684). ([pdf](https://cryptpad.fr/file/#/2/file/Z2sUi8g+2meWruebXyeJZ7Gc/))
 - Jones, Tiffany. 2020. 'Viral lesbians: geopolitical uses of digital meme worship and sharing'. In T. Jones, J. Power, H. von Doussa, & T. W. Jones (Eds.), _Bent street 4.1: Australian LGBTIQA+ art, writing & ideas: love from a distance: intimacy and technology in time of COVID-19_ (1 ed., Vol. 4, pp. 101-113). (Bent street; No. 4.1). [https://bentstreet.net/viral-lesbians-by-tiffany-jones/](https://bentstreet.net/viral-lesbians-by-tiffany-jones/)
-
-<!-- - Pflücke, Felix. 2020. ‘Making Influencers Honest: The Role of Social Media Platforms in Regulating Disclosures’. In _The Regulation of Social Media Influencers_, edited by Catalina Goanta and Sofia Ranchordás. Edward Elgar Publishing. -->
-<!-- - Taylor, Emily, and Stacie Hoffmann. 2019. _Industry Responses to Computational Propaganda and Social Media Manipulation_. [https://comprop.oii.ox.ac.uk/research/posts/industry-responses-to-computational-propaganda-and-social-media-manipulation/](https://comprop.oii.ox.ac.uk/research/posts/industry-responses-to-computational-propaganda-and-social-media-manipulation/). -->
 :::
 
 ## 📍 06: Built Environment [10--16 Nov]
@@ -172,10 +177,11 @@ The buildings people live, work and play in can easily fade into the background 
 
 :::success
 **Action points**
-- Process audio/video talks and readings
+- Process the readings, take notes
 - <mark>Sun 14 Nov: Submit essay (due date)</mark>
 - <mark>Tue 16 Nov: Give peer feedback on essays (due date)</mark>
-- Tue 16 Nov, 10.15-12.00: Seminar meeting
+- Add any points you'd like to discuss to the [agenda for the seminar](https://hackmd.io/@chrmns/BJCl6rayY)
+- Tue 16 Nov, 10.15-12.00: [Seminar meeting](https://uu-se.zoom.us/j/61857057334) (on Zoom)
 :::
 
 :::info
@@ -195,8 +201,8 @@ Final project instructions to follow.
 **Action points**
 - <mark>Tue 23 Nov: Submit project proposal (due date)</mark>
 - <mark>Fri 26 Nov: Give peer feedback on project proposals (due date)</mark>
-- Individual supervisions on project proposals to be scheduled (in week 47)
-- <mark>13 Dec: Submit Final project</mark>
+- Option for one-on-one supervisions on project proposals, to be scheduled individually (in week 47)
+- <mark>Mon 13 Dec: Submit Final project</mark>
 :::
 
 # Accessibility
