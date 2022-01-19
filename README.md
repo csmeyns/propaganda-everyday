@@ -14,7 +14,7 @@ Registration: Sign up via the [registration form](https://doit.medfarm.uu.se/bin
 
 ## Purpose
 
-What is propaganda? What _isn't_? Does it even matter? This course aims to support participants in getting a better grip on how propaganda operates in people's everyday lives. We'll reflect on some of the key questions that the production, circulation and reception of propagandist material raises. Think: issues about: freedom, persuasion, trust, (mis)information and vulnerability. Over the course of the week, we will build a propaganda analysis ‘toolkit’ to apply our insights to concrete cases.
+What is propaganda? What _isn't_? Does it even matter? This course aims to support participants in getting a better grip on how propaganda operates in people's everyday lives. We'll reflect on some of the key questions that the production, circulation and reception of propagandist material raises. Think: issues about freedom, persuasion, trust, (mis)information and vulnerability. Over the course of the week, we will build a propaganda analysis ‘toolkit’ to apply our insights to concrete cases.
 
 ## Format
 
