@@ -10,7 +10,7 @@ Lectures: Uploaded daily
 
 Seminars: Online, daily 
 
-Registration: Sign up via the [registration form](https://doit.medfarm.uu.se/bin/kurt3/kurt/43546)
+Registration: Sign up via the [registration form](https://doit.medfarm.uu.se/bin/kurt3/kurt/43558)
 
 ## Purpose
 
