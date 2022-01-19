@@ -2,9 +2,14 @@
 
 ![Header image: Person holding silver iphone 6, by Castorly Stock from Pexels](https://i.imgur.com/2QQalhG.jpg)
 
+Session: 20-24 June 2022
+
 Facilitator: [Chris Meyns](https://chrismeyns.xyz) (chris.meyns@antro.uu.se)
+
 Lectures: Uploaded daily
+
 Seminars: Online, daily 
+
 Registration: Sign up via the [registration form](https://doit.medfarm.uu.se/bin/kurt3/kurt/43546)
 
 ## Purpose
@@ -19,10 +24,10 @@ All-remote (100% online). Talks are pre-recorded and go 'live' daily. Accompanyi
 
 Day | Topic 
 --- | --- 
-Monday 20 Jun | Welcome & What is propaganda? 
-Tuesday 21 Jun | Bots and algorithms 
-Wednesday 22 Jun | Ads, ads, ads 
-Thursday 23 Jun | Friends & influence(rs) 
-Friday 24 Jun | Built environment 
+Mon 20 Jun | Welcome & What is propaganda? 
+Tue 21 Jun | Bots and algorithms 
+Wed 22 Jun | Ads, ads, ads 
+Thu 23 Jun | Friends & influence(rs) 
+Fri 24 Jun | Built environment 
 
 ###### tags: `propaganda` `vulnerability` `philosophy`
