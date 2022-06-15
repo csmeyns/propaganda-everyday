@@ -18,7 +18,7 @@ What is propaganda? What _isn't_? Does it even matter? This course aims to suppo
 
 ## Format
 
-All-remote (100% online). Talks are pre-recorded and go 'live' daily. Accompanying readings will be made available digitally in advance. We'll meet in daily seminars for an hour or so to dive deeper into issues raised by the material.
+All-remote (100% online). Talks are pre-recorded and go 'live' daily. Accompanying further readings (optional) will be made available digitally. We'll meet in daily seminars for an hour or so to dive deeper into issues raised by the material.
 
 ## Schedule
 
