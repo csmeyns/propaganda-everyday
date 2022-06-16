@@ -6,11 +6,11 @@ Session: 20-24 June 2022
 
 Facilitator: [Chris Meyns](https://chrismeyns.xyz) (chris.meyns@antro.uu.se)
 
-Lectures: Uploaded daily
+Lectures: Streamed daily at 13.00 CET. 
 
-Seminars: Online, daily 
+Discussion sessions: Daily 15.00 CET.
 
-Registration: Sign up via the [registration form](https://doit.medfarm.uu.se/bin/kurt3/kurt/43558)
+Registration: Sign up via the [registration form](https://doit.medfarm.uu.se/bin/kurt3/kurt/43558).
 
 ## Purpose
 
@@ -18,7 +18,7 @@ What is propaganda? What _isn't_? Does it even matter? This course aims to suppo
 
 ## Format
 
-All-remote (100% online). Talks are pre-recorded and go 'live' daily. Accompanying further readings (optional) will be made available digitally. We'll meet in daily seminars for an hour or so to dive deeper into issues raised by the material.
+All-remote (100% online). Talks are pre-recorded and go 'live' daily. Accompanying further readings (optional) will be made available digitally. We'll meet in daily discussion/brainstorm/conversation sessions for an hour or so to dive deeper into issues raised by the material.
 
 ## Schedule
 
